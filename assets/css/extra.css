@@ -33,3 +33,13 @@
 #about h2 {
     color: #e8edec;
 }
+.item {
+    transition: all 0.3s ease-in-out;
+}
+
+
+.item:hover {
+    color: var(--french-violet);
+    transform: scale(1.05);
+
+}
