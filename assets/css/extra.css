@@ -1,4 +1,31 @@
+
+:root {
+    --french-violet: #7A28CB;
+	--french-violet-dark: rgba(122, 40, 203, 0.8);
+    --jet: #2f2d2e;
+	--dim-gray: rgba(104, 105, 99, 0.8);
+    --dark-green: #142828;
+}
+
+
+
 .intro-img {
     width: 20em;
     border-radius: 5px;
+}
+
+#portfolio header p {
+    padding: 10px 20px;
+    line-height: 1.5em;
+}
+.row {
+    padding-top: 2em;
+}
+
+#about p {
+    margin-top: 3em;
+}
+
+.skills-heading {
+    margin-bottom: 1em;
 }
