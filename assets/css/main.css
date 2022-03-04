@@ -2250,8 +2250,10 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				/* background-color: #81918E;
+				background-image: url("../../images/banner.jpg"); */
+				background: rgb(41,12,71);
+background: linear-gradient(173deg, rgba(41,12,71,0.5690651260504201) 4%, rgba(108,10,214,0.5998774509803921) 51%, rgba(185,24,95,0.5858718487394958) 86%);
 			}
 
 			#main > section.two {
@@ -2259,7 +2261,9 @@ input, select, textarea {
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				color: #e8edec;
+				background: rgb(41,12,71);
+background: linear-gradient(355deg, rgba(41,12,71,0.5690651260504201) 4%, rgba(108,10,214,0.5998774509803921) 51%, rgba(185,24,95,0.5858718487394958) 86%);
 			}
 
 			#main > section.four {
