@@ -14,6 +14,22 @@
     border-radius: 5px;
 }
 
+.tech-boxes {
+    border-radius: 5px;
+    background-color: rgba(47, 45, 46, 0.5);
+    padding: 2em;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 5em;
+    list-style: none;
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr 1fr;
+    grid-auto-rows: 100px;
+    row-gap: 1em;
+}
+
+
+
 #portfolio header p {
     padding: 10px 20px;
     line-height: 1.5em;
